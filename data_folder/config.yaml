@@ -1,0 +1,71 @@
+remote: true
+
+experienceLevel:
+  internship: true
+  entry: true
+  associate: false
+  mid-senior level: true
+  director: false
+  executive: false
+
+jobTypes:
+  full-time: true
+  contract: false
+  part-time: false
+  temporary: true
+  internship: true
+  other: false
+  volunteer: true
+
+date:
+  all time: false
+  month: true
+  week: true
+  24 hours: true
+
+positions:
+  - Software Tester
+  - Software Engineer
+  - Scrum Master
+  - DevOps Engineer
+  - UX Designer
+  - ML Developer
+  - Data engineer
+  - Data analyst
+  - Data Analyst
+	- Data Scientist
+	- Cloud Engineer
+	- Business Intelligence (BI) Analyst
+	- Machine Learning Engineer
+	- Cryptocurrency Analyst / Blockchain Analyst
+	- Financial Analyst (with a focus on Data Science)
+	- AI / Data Engineer
+	- ETL Developer / Data Engineer
+	- DevOps Engineer
+	- Python Developer (with Cloud Specialization)
+	- Cloud Solutions Architect
+	- Quantitative Analyst (Quant)
+  - web designer
+  - web developer
+  - java developer
+  - php developer
+  - c++ developer
+  - c# developer
+  - javascript developer
+  - python developer
+  - python full stack developer
+
+
+
+locations:
+  - USA
+  - Canada
+
+
+distance: 10000
+
+companyBlacklist:
+  - Noir
+  - Crossover
+
+titleBlacklist:

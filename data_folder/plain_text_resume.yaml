@@ -1,0 +1,163 @@
+personal_information:
+  First name: "vijay muni reddy"
+  Last name: "Mopuru"
+  date_of_birth: "05/06/2000"
+  country: "United States"
+  city: "New York"
+  address: "2646 4th street Astoria"
+  phone_prefix: "+1"
+  phone: "973-449-0119 "
+  email: "vijayreddymopuru@gmail.com"
+  github: "https://github.com/vijay1612"
+  linkedin: "http://linkedin.com/in/vijay-mopuru-242934220"
+  
+education_details:
+  - degree: "Master's Degree"
+    university: "New jersey Institute of Technology"
+    gpa: "3.5/4"
+    graduation_year: "2023"
+    field_of_study: "Computer Science"
+    exam:
+      Machine Learning: "3.5"
+      Artificial Intelligence: "3.8"
+      Machine Learning: "3.5"
+      Databases: "4"
+      python: "4"
+      Information Theory and Inference: "4"
+      Algorithm Analysis and Design: "4"
+      Object-Oriented Languages and Programming: "4"
+      Linear Algebra and Numerical Analysis: "4"
+      Database: "4"
+
+experience_details:
+  - position: Data Engineer"
+    company: "IQube Technologies inc"
+    employment_period: "01/2024 - 07/2024"
+    location: "New Jersey"
+    industry: "Software Technology"
+    key_responsibilities:
+      - responsibility_1: "Real-Time Customer Sentiment Analysis Platform using Apache Kafka for data streaming and Apache Spark for ETL"
+      - responsibility_2: "Provided cloud services for 10+ companies, enhancing their software capabilities with secure, decentralized solutions"
+      - responsibility_3: "Developed client applications, integrated cutting-edge technology to meet client needs and drive industry innovation"
+    skills_acquired:
+      - "Machinelearning"
+      - "Software engineering"
+      - "Consultancy"
+
+  - position: "Machine Learning Intern"
+    company: "Dot IT solutions"
+    employment_period: "05/2023 - 09/2023"
+    location: "New Jersey, US"
+    industry: "IoT Security Research"
+    key_responsibilities:
+      - responsibility_1: "Conducted in-depth research on IoT security, focusing on binary instrumentation and runtime monitoring"
+      - responsibility_2: "Performed in-depth study of the MQTT protocol and Falco"
+      - responsibility_3: "Developed multiple software components including MQTT packet analysis library, Falco adapter, and RML monitor in Prolog"
+      - responsibility_4: "Authored thesis 'Binary Instrumentation for Runtime Monitoring of Internet of Things Systems Using Falco'"
+    skills_acquired:
+      - "Gen AI, LLM's"
+      - "IoT security"
+      - "MQTT protocol"
+      - "Prolog programming"
+
+  - position: "Data Engineer"
+    company: "Spring infotechn"
+    employment_period: "11/2021 - 07/2022"
+    location: "Hyderabad, India"
+    industry: "Healthcare IT"
+    key_responsibilities:
+      - responsibility_1: "Integrated and enforced robust security protocols"
+      - responsibility_2:  "Developed and maintained a critical software tool for password validation used by over 1,600 employees"
+      - responsibility_3:  "Played an integral role in the hospital's cybersecurity team"
+    skills_acquired:
+      - "Cybersecurity"
+      - "data warehouse"
+      - "cloud services"
+      - "Software development"
+      - "Password validation"
+  - position: "Data Engineer intern"
+    company: "Spring infotech pvt lmt"
+    employment_period: "03/2021 - 09/2022"
+    location: "Hyderabad, India"
+    industry: "Software development"
+    key_responsibilities:
+      - responsibility_1: "Integrated and enforced robust security protocols"
+      - responsibility_2:  "Developed and maintained a critical software tool for password validation used by over 1,600 employees"
+      - responsibility_3:  "Played an integral role in the hospital's cybersecurity team"
+    skills_acquired:
+      - "Cybersecurity"
+      - "data warehouse"
+      - "cloud services"
+      - "Software development"
+      - "Password validation"
+
+projects:
+  - name: "JobBot"
+    description: "AI-driven tool to automate and personalize job applications on LinkedIn, gained over 3000 stars on GitHub, improving efficiency and reducing application time"
+    link: "https://github.com/liam-murphy/jobbot"
+  - name: "mqtt-packet-parser"
+    description: "Developed a Node.js module for parsing MQTT packets, improved parsing efficiency by 40%"
+    link: "https://github.com/liam-murphy/mqtt-packet-parser"
+
+# achievements:
+#   - name: "Acheived a data certification with microsoft"
+#     description: "successfully cleared  an azure examination in first attempt"
+#   - name: "active member in kappa fratarnity"
+#     description: "successfully arranged a lot services to lot of people with organization"
+#   - name: "GitHub Recognition"
+#     description: "Gained over 30 stars on GitHub with JobBot project"
+
+certifications:
+  - "Cloud"
+
+languages:
+  - language: "English"
+    proficiency: "Native"
+  - language: "Hindi"
+    proficiency: "Professional"
+
+interests:
+  - "Full-Stack Development"
+  - "Software Architecture"
+  - "IoT system design and development"
+  - "Artificial Intelligence"
+  - "Cloud Technologies"
+  - "Python"
+  - "Java"
+  - "JavaScript"
+  - "Go"
+  - "data engineer"
+  - "data anlyst"
+  - "data scientist"
+  - "machine learning"
+
+availability:
+  notice_period: "immediately"
+
+salary_expectations:
+  salary_range_usd: "50000"
+
+self_identification:
+  gender: "Male"
+  pronouns: "He"
+  veteran: "No"
+  disability: "No"
+  ethnicity: "Asian white"
+
+legal_authorization:
+  eu_work_authorization: "Yes"
+  us_work_authorization: "Yes"
+  requires_us_visa: "Yes"
+  requires_us_sponsorship: "NO"
+  requires_eu_visa: "No"
+  legally_allowed_to_work_in_eu: "Yes"
+  legally_allowed_to_work_in_us: "Yes"
+  requires_eu_sponsorship: "No"
+
+work_preferences:
+  remote_work: "Yes"
+  in_person_work: "Yes"
+  open_to_relocation: "Yes"
+  willing_to_complete_assessments: "Yes"
+  willing_to_undergo_drug_tests: "Yes"
+  willing_to_undergo_background_checks: "Yes"
